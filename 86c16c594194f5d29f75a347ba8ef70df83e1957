@@ -1,0 +1,11 @@
+Verified+2: Jenkins
+Code-Review+2: David Lyle <dklyle0@gmail.com>
+Code-Review+1: Thai Tran <tqtran@us.ibm.com>
+Code-Review+2: Cindy Lu <clu@us.ibm.com>
+Workflow+1: Cindy Lu <clu@us.ibm.com>
+Code-Review+1: Richard Jones <r1chardj0n3s@gmail.com>
+Submitted-by: Jenkins
+Submitted-at: Tue, 07 Jul 2015 22:51:51 +0000
+Reviewed-on: https://review.openstack.org/199278
+Project: stackforge/xstatic-angular-gettext
+Branch: refs/heads/master
