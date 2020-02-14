@@ -1,0 +1,8 @@
+Code-Review+2: Akihiro Motoki <amotoki@gmail.com>
+Workflow+1: Vishal Manchanda <manchandavishal143@gmail.com>
+Verified+2: Zuul
+Submitted-by: Zuul
+Submitted-at: Fri, 14 Feb 2020 07:51:36 +0000
+Reviewed-on: https://review.opendev.org/703604
+Project: openstack/xstatic-angular-gettext
+Branch: refs/heads/master
